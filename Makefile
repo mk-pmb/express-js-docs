@@ -1,5 +1,5 @@
 
-JADE = ./node_modules/.bin/jade
+JADE = jadelang
 
 HTML = index.html \
 	api.html \
